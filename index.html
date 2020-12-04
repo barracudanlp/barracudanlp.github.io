@@ -7,6 +7,8 @@
     <meta name="description" content="">
     <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
     <meta name="generator" content="Hugo 0.78.1">
+
+
     <title>Grupo de Estudio de Lingüística Computacional</title>
 
     <link rel="canonical" href="https://v5.getbootstrap.com/docs/5.0/examples/starter-template/">
@@ -16,42 +18,32 @@
     <!-- Bootstrap core CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,600;1,300&display=swap" rel="stylesheet">   
+    
     <!-- Favicons -->
-<link rel="apple-touch-icon" href="/docs/5.0/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
-<link rel="icon" href="/docs/5.0/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
-<link rel="icon" href="/docs/5.0/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
-<link rel="manifest" href="/docs/5.0/assets/img/favicons/manifest.json">
-<link rel="mask-icon" href="/docs/5.0/assets/img/favicons/safari-pinned-tab.svg" color="#7952b3">
-<link rel="icon" href="/docs/5.0/assets/img/favicons/favicon.ico">
-<meta name="theme-color" content="#7952b3">
+    <link rel="apple-touch-icon" href="/docs/5.0/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+    <link rel="icon" href="/docs/5.0/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="/docs/5.0/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+    <link rel="manifest" href="/docs/5.0/assets/img/favicons/manifest.json">
+    <link rel="mask-icon" href="/docs/5.0/assets/img/favicons/safari-pinned-tab.svg" color="#7952b3">
+    <link rel="icon" href="/docs/5.0/assets/img/favicons/favicon.ico">
+    <meta name="theme-color" content="#7952b3">
 
-
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
-      }
-
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-    </style>
 
     
     <!-- Custom styles for this template -->
     <link href="starter-template.css" rel="stylesheet">
-    
+    <link rel="icon" href="barracuda_icon.ico">
   </head>
   <body>
     
 <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">GELC</a>
+    <a class="navbar-brand" href="#">
+      <img classs="img-responsive" width="30" height="30" alt="" height="" src="logo.jpg"></a>
+
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -64,16 +56,15 @@
         <li class="nav-item">
           <a class="nav-link" href="#">Nosotros</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">¿Qué hacemos?</a>
-          <ul class="dropdown-menu" aria-labelledby="dropdown01">
-            <li><a class="dropdown-item" href="#">Cursos</a></li>
-            <li><a class="dropdown-item" href="#">Investigación</a></li>
-            <li><a class="dropdown-item" href="#">Consultoría</a></li>
-          </ul>
+        <li class="nav-item dropdown show">
+          <a class="nav-item nav-link dropdown-toggle mr-md-2" href="#" id="bd-versions" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
+            Qué Hacemos?
+          </a>
+          <div class="dropdown-menu dropdown-menu-right show" aria-labelledby="bd-versions">
+            <a class="dropdown-item active" href="Link">Cursos</a>
+            <a class="dropdown-item" href="link">Investigación</a>
+            <a class="dropdown-item" href="link">Consultoría</a>
+          </div>
         </li>
       </ul>
       <form class="d-flex">
@@ -86,11 +77,91 @@
 
 <main class="container">
 
-  <div class="starter-template text-center py-5 px-3">
+  <div class="starter-template text-secondary py-5 px-3">
     <p></p>
     <h1></h1>
-    <p class="lead">En construcción<br> </p>
+    <p class="lead">Somos un grupo de estudiantes y egresados de la carrera de Letras con sede en el Instituto de Filología y Literaturas Hispánicas "Dr. Amado Alonso" que nos hemos especializado en el área de la Lingüística Computacional, principalmente en el Procesamiento del Lenguaje Natural. <br> En 2017 ofrecimos por primera vez el curso "Herramientas computacionales para el procesamiento automático de textos" como parte del programa de Extensión de la Facultad de Filosofía y Letras, que fue seguido, en 2018, del curso "Herramientas computacionales para el análisis de textos en Python".<br> Estos cursos fueron el fruto de los estudios, en mucho casos independientes, de todos los miembros del grupo y parte de nuestra iniciativa de divulgar las herramientas de la lingüística computacional, cuyo conocimiento y uso se suele limitar al área de la informática. <br> Durante el primer cuatrimestre de 2019, dictamos la última edición de "Herramientas computacionales para el análisis de textos en Python" y un nuevo curso de extensión sobre escritura académica en LaTeX. Para el segundo cuatrimestre de ese mismo año, llevamos adelante el primer seminario de extensión sobre estadística para procesamiento del lenguaje natural. <br>  
+    En este sitio pueden encontrar información sobre el grupo, así como materiales e información de nuestros cursos. Pueden encontrar más información en la pestaña de Cursos de Extensión. </p><br> </p>
   </div>
+
+  <section class="Nosotros text-center bg-light">
+    <div class="container">
+      <h2 class="mb-5">Nosotros</h2>
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-1.jpg" alt="">
+            <h5>Federico Alvarez</h5>
+            <p class="font-weight-light mb-0">"Texto"</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-2.jpg" alt="">
+            <h5>Fernando Carranza</h5>
+            <p class="font-weight-light mb-0">Texto</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-3.jpg" alt="">
+            <h5>Victoria Colombo</h5>
+            <p class="font-weight-light mb-0">"Texto"</p>
+          </div>
+          
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-1.jpg" alt="">
+            <h5>Gualchi</h5>
+            <p class="font-weight-light mb-0">"Texto"</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-2.jpg" alt="">
+            <h5>Macarena Fernandez</h5>
+            <p class="font-weight-light mb-0">Texto</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-3.jpg" alt="">
+            <h5>Julia Milanese</h5>
+            <p class="font-weight-light mb-0">"Texto"</p>
+          </div>
+          
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-1.jpg" alt="">
+            <h5>Mart{in Kondra</h5>
+            <p class="font-weight-light mb-0">"Texto"</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-2.jpg" alt="">
+            <h5>Catalina Rubio</h5>
+            <p class="font-weight-light mb-0">Texto</p>
+          </div>
+        </div>
+        <div class="col-lg-4">
+          <div class="testimonial-item mx-auto mb-5 mb-lg-0">
+            <img class="img-fluid rounded-circle mb-3" src="img/testimonials-3.jpg" alt="">
+            <h5>Fernando Schiaffino</h5>
+            <p class="font-weight-light mb-0">"Texto"</p>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+  
 
 </main><!-- /.container -->
 
