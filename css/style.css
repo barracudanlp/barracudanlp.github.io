@@ -1,56 +1,54 @@
 
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
-      }
 
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-      
-      .navbar-inverse .navbar-brand {
-        display: flex;
-        align-items: center;
-        padding: 5px;
-      }
-      .navbar-brand img {
-        height: 100%;
-        margin-right: 20px;
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
 
-      }
-      /* Style all font awesome icons */
-      .fa {
-        padding: 20px;
-        font-size: 30px;
-        width: 50px;
-        text-align: center;
-        text-decoration: none;
-      }
+.navbar-inverse .navbar-brand {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+.navbar-brand img {
+  height: 100%;
+  margin-right: 20px;
 
-      /* Add a hover effect if you want */
-      .fa:hover {
-        opacity: 0.7;
-      }
+}
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
 
-      /* Set a specific color for each brand */
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
 
-      /* Facebook */
-      .fa-facebook {
-        background: #3B5998;
-        color: white;
-      }
+/* Set a specific color for each brand */
 
-      /* Twitter */
-      .fa-twitter {
-        background: #55ACEE;
-        color: white;
-      }      
-      .fa-github {
-        background: #55ACEE;
-        color: white;
-      }      
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}      
+.fa-github {
+  background: #55ACEE;
+  color: white;
+}      
+
+.fa-linkedin-square {
+  font-size: 52px;
+  color: gray;
+  }
