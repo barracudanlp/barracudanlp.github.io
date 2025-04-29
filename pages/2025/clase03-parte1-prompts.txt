@@ -1,0 +1,198 @@
+Algunos prompts
+
+Prompt 1: Summarization
+
+Queísmo, dequeísmo y deísmo
+Queísmo y dequeísmo. Se deben evitar en español tanto el queísmo, es decir, la omisión indebida de la preposición de ante que (como en ⊗‍No me acordé que era tu cumpleaños), como el dequeísmo, es decir, la adición indebida de la preposición de ante que (como en ⊗‍Pienso de que Juan va a venir tarde). Aun así, se puede decir que el queísmo está más extendido en el registro coloquial (incluso a veces en boca de personas cultas que lo evitan en la lengua escrita) que el dequeísmo, que constituye una incorrección más marcada.
+¿Cómo se pueden evitar el queísmo y el dequeísmo? Una manera sencilla de saber cuándo se debe utilizar la preposición de es sustituir la oración subordinada que encabeza que por los pronombres eso o ello. Si se conserva la preposición, se puede concluir que en la oración completa se debe emplear de que, como en No me acordé de eso ~ No me acordé de que era tu cumpleaños. Si no se conserva de después de la sustitución, tampoco debe aparecer en la oración con que: Pienso eso (no ⊗‍Pienso de eso) ~ Pienso que Juan va a venir tarde.
+Casos en los que se debe usar de que:
+Me alegro de que vengas. Se usa de que en complementos de verbos que exigen de como acordarse, alegrarse, asegurarse, enterarse, preocuparse, olvidarse, convencer(se), tratar…: Se acordó de que venías hoy; Me alegro de que vengas; Se aseguró de que no faltara nada; Me he enterado de que no era cierto…
+con la condición de que estudies. Se usa de que en los complementos de muchos nombres, como en con la condición de que estudies, tener la sensación de que va a llover, el hecho de que viniera, con independencia de que pueda ir, sin perjuicio de que se puedan tomar otras medidas, cabe la posibilidad de que venga, no tengo dudas de que va a venir…
+seguros de que lo entenderá. Se usa de que con adjetivos como encantado, seguro, etc.: Estamos encantados de que te unas a la plataforma; Estoy seguro de que lo entenderá…
+a pesar de que no se lo sabía. Se usa de que con expresiones como a causa de, a fin de, a pesar de, a punto de, en caso de…: A pesar de que no se lo sabía muy bien, aprobó el examen.
+Se dio cuenta de que había tenido suerte. Se usa de que en las construcciones con caber o haber duda de algo, caer en la cuenta de algo, darse cuenta de algo: No hay duda de que va a llover; Cayó en la cuenta de que llegaba tarde; Se dio cuenta de que había tenido suerte…
+Casos en los que se debe usar solo que:
+Me alegra que vengas. Se usa solo que ante sujetos: Me alegra que vengas; Es necesario que hagamos algo. No debe decirse ⊗‍Me alegra de que vengas; ⊗‍Es necesario de que hagamos algo.
+Pienso que Juan debería ir. Se usa solo que ante complementos directos: He oído que te casas; Pienso que Juan debería ir… De igual forma, se debe decir aclarar que, aconsejar que, afirmar que…
+Mi intención es que participemos todos. Se usa solo que en otros casos, como en Mi intención es que participemos todos.
+En el GLOSARIO se explican algunos verbos concretos que pueden aceptar distintas construcciones, como advertir, alegrar o informar, así como el caso de antes.
+
+⊗‍Quiere de casarse. Es incorrecto —e incluso vulgar— el llamado deísmo, es decir, el uso indebido de la preposición de en construcciones como ⊗‍Quiere de casarse (en lugar de Quiere casarse) o ⊗‍Se le veía de venir (en lugar de Se le veía venir). ; tldr;
+
+###################################################################################
+
+Prompt 2: translation
+
+Rosita Quiroga, considerada la primera cantante arrabalera de tango y pionera en la grabación de disco con sistema eléctrico en Argentina, nació el 16 de enero de 1896 en Buenos Aires.
+La cantante y compositora de tangos se crió en el seno de una familia humilde, en el barrio porteño de La Boca. Allí aprendió el lunfardo y el estilo canyengue que realzó en sus interpretaciones. El reconocido maestro Juan de Dios Filiberto fue su profesor de guitarra, a los siete años.
+
+En 1923 grabó "Siempre Criolla", su primer tema y, en 1924, "La tipa", su primer tango.
+
+Fue la primera mujer que cantó tangos en radio, debutando en LOX (luego Radio Cultura). Su popularidad fue creciendo hasta convertirse en una de las cantantes de tango con mayor cantidad de grabaciones. ; translate to German:
+
+###################################################################################
+
+Prompt 3: sentiment analysis
+
+Escribo esto habiéndome enterado hace poco la existencia de esta película, en relación al recién estrenado documental que se hizo al respecto. Documental que todavía no tuve la suerte de ver, aclaro.
+
+La encaré con curiosidad, a sabiendas ya de la gracia reinterpretativa, del fanatismo del autodenominado "grupo de apreciación", del dudoso epíteto de "mejor peor película de la historia", o incluso el de "The Room" argentina; pero temiendo, a su vez, que se tratara de algún nuevo record de esnobismo, sabiéndome impermeable a ese tipo de actitudes porque, para mi está bien claro: el consumo irónico no existe. Lo que te gusta consumir, te gusta y ya. No hay ironía en el placer de hacer algo. En todo caso, a veces resulta misterioso entender por qué nos gusta lo que nos gusta. Y cuando aquello que nos gusta, no se ajusta a los parámetros racionales que tenemos para señalar virtudes, aparece el intelectualismo berreta ese del "consumo irónico". Y la dificultad, a la hora de explicar, aumenta cuando se trata de una película, porque el cine es un arte en el que confluyen escrituras de varios, actuaciones de varios, artes plásticas y visuales, músicas originales o elegidas, en fin, diversas aristas de distintos artistas. Y tal vez por eso los resultados siempre son azarosos, las películas funcionan o no, independientemente del buen o mal desempeño de cada uno de los artistas que intercedieron. El resultado es mucho más que la suma de las partes, y en este caso, parece, aquello que resta también suma, muchísimo.
+
+Creo que Un Buen Día tiene un buen argumento, bien redondeado y una entre prolija y virtuosa fotografía en exteriores. Es una peli redonda, que te saca a pasear por esa bahía soleada, por ese buen día del título, y, sobre todo, por esos personajes que condensan sus historias de vida en un encuentro antológico. La película se planta, queriendo decir y expresar un montón de ideas, que logra trasmitir con desvergonzado atropello y seguridad de sí. Resulta entonces encantadora, corazonuda y tan valiente como incorrecta. Las malas actuaciones no la hieren, por el contrario, le aportan una comicidad extraña, y los textos bochornosos, con descarada pretensión de profundidad, le otorgan al total ese aire de originalidad pavorosa, que se te mete en el cuerpo y te hace vibrar de vergüenza y emoción. La brutalidad sentimental de los acontecimientos, revelaciones y declamaciones son golpes a la mandíbula que te dejan boquiabierto, y que terminan desnudando unas tiernas ansias de amar, una vez más o, aunque sea, una última vez. "El tiempo es todo el tiempo", o incluso "hacer el amor es un orgasmo al alma" son el tipo de animaladas en las que incurrimos cuando estamos enamorados. Son goles al ángulo en un guion de una solemnidad irresistiblemente encantadora.
+
+Un párrafo aparte para el personaje interpretado por Aníbal Silveyra. Todo humildad y valiente amor propio. Total ternura, desnudez y nobleza. Encarna él mismo la belleza de la obra con su encantadora pureza infantil. Resulta exactamente lo opuesto al desagradable Tommy Wiseau de The Room, a quien nadie querría de amigo. A Silveyra, en cambio, dan ganas de abrazarlo para siempre.
+
+Una obra sublime, que sólo puede lograrse dejándolo todo, diciéndolo todo, a corazón abierto y, sobre todo, inocentemente. ; Overall, it was
+
+
+###################################################################################
+prompt 4 zero shot
+Te voy a proveer un texto en el que puede aparecer modalidad. Por favor, indicá qué tipo de modalidad encontrás y en tal caso, cuáles son los elementos o elemento disparador que te llevan a reconocer esa modalidad. El texto sobre el que tenés que resolver esta tarea es el siguiente:
+
+Los niños, más que cualquier otra persona, necesitan recibir la protección que les brindan sus derechos —y EE.UU. debería proveer al mundo con un brillante ejemplo de lo que esto significa.
+
+##################################################################################
+
+Prompt 5 few shot
+Te voy a proveer un texto en el que puede aparecer modalidad. Por favor, indicá qué tipo de modalidad encontrás y en tal caso, cuáles son los elementos o elemento disparador que te llevan a reconocer esa modalidad. Como ejemplo, supongamos que el texto es el siguiente:
+
+Entonces, ¿por qué no lo hacemos? Del total del daño que inflige la desigualdad en nuestras economías, sociedades y ámbitos políticos, el daño que causa a los niños debería ser el más preocupante.
+
+La respuesta en ese caso debería ser la siguiente: 
+
+Modalidad: deóntica
+Elemento disparador: debería
+
+El texto sobre el que tenés que resolver esta tarea es el siguiente:
+
+Los niños, más que cualquier otra persona, necesitan recibir la protección que les brindan sus derechos —y EE.UU. debería proveer al mundo con un brillante ejemplo de lo que esto significa.
+
+###########################################################################
+Prompt 6 Few shot con 2 ejemplos
+
+Te voy a proveer un texto en el que puede aparecer modalidad. Por favor, indicá qué tipo de modalidad encontrás y en tal caso, cuáles son los elementos o elemento disparador que te llevan a reconocer esa modalidad. Como ejemplo, supongamos que el texto fuera el siguiente:
+
+Entonces, ¿por qué no lo hacemos? Del total del daño que inflige la desigualdad en nuestras economías, sociedades y ámbitos políticos, el daño que causa a los niños debería ser el más preocupante.
+
+La respuesta en ese caso debería ser la siguiente: 
+
+Modalidad: deóntica
+Elemento disparador: debería
+
+Como otro ejemplo, supongamos que el texto fuera el siguiente:
+ 
+ Podemos reducir las privaciones que se sufren durante la infancia y aumentar la igualdad de oportunidades, con lo que sentaríamos las bases para un futuro más justo y próspero —un futuro que refleje los valores que nosotros mismos profesamos—.
+
+La respuesta en ese caso debería ser la siguiente:
+
+Modalidad: dinámica
+Elemento disparador: podemos
+
+El texto sobre el que tenés que resolver esta tarea es el siguiente:
+
+Los niños, más que cualquier otra persona, necesitan recibir la protección que les brindan sus derechos —y EE.UU. debería proveer al mundo con un brillante ejemplo de lo que esto significa.
+
+##################################################################################
+Prompt 7 few shot con errores
+
+Te voy a proveer un texto en el que puede aparecer modalidad. Por favor, indicá qué tipo de modalidad encontrás y en tal caso, cuáles son los elementos o elemento disparador que te llevan a reconocer esa modalidad. Como ejemplo, supongamos que el texto fuera el siguiente:
+
+Entonces, ¿por qué no lo hacemos? Del total del daño que inflige la desigualdad en nuestras economías, sociedades y ámbitos políticos, el daño que causa a los niños debería ser el más preocupante.
+
+La respuesta en ese caso debería ser la siguiente: 
+
+Modalidad: dinámica
+Elemento disparador: ámbitos
+
+Como otro ejemplo, supongamos que el texto fuera el siguiente:
+ 
+ Podemos reducir las privaciones que se sufren durante la infancia y aumentar la igualdad de oportunidades, con lo que sentaríamos las bases para un futuro más justo y próspero —un futuro que refleje los valores que nosotros mismos profesamos—.
+
+La respuesta en ese caso debería ser la siguiente:
+
+Modalidad: epistémica
+Elemento disparador: sufren
+
+El texto sobre el que tenés que resolver esta tarea es el siguiente:
+
+Los niños, más que cualquier otra persona, necesitan recibir la protección que les brindan sus derechos —y EE.UU. debería proveer al mundo con un brillante ejemplo de lo que esto significa.
+
+##################################################################################
+Prompt 8 few shot con dos modalidades. primero 1
+
+Te voy a proveer un texto en el que puede aparecer modalidad. Por favor, indicá qué tipo o tipos de modalidad encontrás y en tal caso, cuáles son los elementos o elemento disparador que te llevan a reconocer esa modalidad. Las modalidades posibles son la deóntica, la epistémica y la dinámica. Como ejemplo, supongamos que el texto fuera el siguiente:
+
+Entonces, ¿por qué no lo hacemos? Del total del daño que inflige la desigualdad en nuestras economías, sociedades y ámbitos políticos, el daño que causa a los niños debería ser el más preocupante.
+
+La respuesta en ese caso debería ser la siguiente: 
+
+Modalidad: deóntica
+Elemento disparador: debería
+
+Como otro ejemplo, supongamos que el texto fuera el siguiente:
+ 
+ Podemos reducir las privaciones que se sufren durante la infancia y aumentar la igualdad de oportunidades, con lo que sentaríamos las bases para un futuro más justo y próspero —un futuro que refleje los valores que nosotros mismos profesamos—.
+
+La respuesta en ese caso debería ser la siguiente:
+
+Modalidad: dinámica
+Elemento disparador: podemos
+
+Como otro ejemplo, supongamos que el texto fuera el siguiente:
+
+Es posible que mañana deba hacer algo al respecto. 
+
+La respuesta en ese caso debería ser la siguiente:
+
+Modalidad: epistémica
+Elemento disparador: Es posible
+Modalidad: deóntica
+Elemento disparador: deba
+
+El texto sobre el que tenés que resolver esta tarea es el siguiente:
+
+Los niños, más que cualquier otra persona, necesitan recibir la protección que les brindan sus derechos —y EE.UU. debería proveer al mundo con un brillante ejemplo de lo que esto significa.
+
+##################################################################################
+Prompt 9 few shot con dos modalidades primero 2
+
+Te voy a proveer un texto en el que puede aparecer modalidad. Por favor, indicá qué tipo o tipos de modalidad encontrás y en tal caso, cuáles son los elementos o elemento disparador que te llevan a reconocer esa modalidad. Las modalidades posibles son la deóntica, la epistémica y la dinámica. Como ejemplo, supongamos que el texto fuera el siguiente:
+
+Es posible que mañana deba hacer algo al respecto. 
+
+La respuesta en ese caso debería ser la siguiente:
+
+Modalidad: epistémica
+Elemento disparador: Es posible
+Modalidad: deóntica
+Elemento disparador: deba
+
+Como otro ejemplo, supongamos que el texto fuera el siguiente:
+ 
+ Podemos reducir las privaciones que se sufren durante la infancia y aumentar la igualdad de oportunidades, con lo que sentaríamos las bases para un futuro más justo y próspero —un futuro que refleje los valores que nosotros mismos profesamos—.
+
+La respuesta en ese caso debería ser la siguiente:
+
+Modalidad: dinámica
+Elemento disparador: podemos
+
+Como otro ejemplo, supongamos que el texto fuera el siguiente:
+ 
+Entonces, ¿por qué no lo hacemos? Del total del daño que inflige la desigualdad en nuestras economías, sociedades y ámbitos políticos, el daño que causa a los niños debería ser el más preocupante.
+
+La respuesta en ese caso debería ser la siguiente: 
+
+Modalidad: deóntica
+Elemento disparador: debería
+
+El texto sobre el que tenés que resolver esta tarea es el siguiente:
+
+Los niños, más que cualquier otra persona, necesitan recibir la protección que les brindan sus derechos —y EE.UU. debería proveer al mundo con un brillante ejemplo de lo que esto significa.
+
+##################################################################################
+
+¿Cuál es la capital de Buenos Aires?
+
+No, la capital de Buenos Aires es la Ciudad Autónoma de Buenos Aires.
+
+
